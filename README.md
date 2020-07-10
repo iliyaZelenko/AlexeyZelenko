@@ -5,4 +5,4 @@
 - 🌱получать высокую оплату труда;
 - 📫работать в разных точках Земли;
 - 😄постоянно развиваться в любимом деле
-(https://github.com/AlexeyZelenko/my-skills/images/programmist.jpg)
+(https://alexeyzelenko.github.io/my-skills/images/programmist.jpg)
