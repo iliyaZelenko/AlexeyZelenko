@@ -8,4 +8,4 @@
 - 📫работать в разных точках Земли;
 - 😄постоянно развиваться в любимом деле
 
-![My skills](https://alexeyzelenko.github.io/alexeyzelenko/index.html)
+![My skills](https://alexeyzelenko.github.io/alexeyzelenko)
