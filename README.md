@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Программист](https://alexeyzelenko.github.io/AlexeyZelenko/images/programmist.jpg)
+![Программист](https://alexeyzelenko.github.io/AlexeyZelenko/my-skills/images/programmist.jpg)
 
 Цель:
 - ⚡разрабатывать программное обеспечение на высоком уровне;
@@ -8,4 +8,4 @@
 - 📫работать в разных точках Земли;
 - 😄постоянно развиваться в любимом деле
 
-![My skills](https://alexeyzelenko.github.io/AlexeyZelenko/)
+![My skills](https://alexeyzelenko.github.io/AlexeyZelenko/my-skills)
